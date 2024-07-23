@@ -1,6 +1,6 @@
-# [The Completionist 2 MegaThread - General FAQ, Chronology of Events and Archived Evidence](https://old.reddit.com/r/TheCompletionist2/comments/18qbnal/megathread_general_faq_chronology_of_events_and/)
+# GITHUB MIRROR: https://github.com/ThomasEricB/The-Completionist-2-MegaThread
 
-> Hello folks, welcome to our megathread (v2)! [**As some of you might remember from the last time,**](https://old.reddit.com/r/TheCompletionist2/comments/18lsitu/megathread_archived_evidence_and_chronology_of/) the purpose of this huge post is to make everything relevant accessible in one single place, instead of flooding the subreddit with (honestly) undesirable posts. We made this so everyone can find stuff more easily, especially newcomers. We will be updating this as things go along. Took a long time to write, upload the evidence and format this post so thanks for the support and positive feedback! If you have any suggestions or additions to this megathread, please comment below! - u/Thomas_Eric 
+> Hello folks, welcome to our megathread (v2)! [**As some of you might remember from the last time,**](https://www.reddit.com/r/TheCompletionist2/comments/18lsitu/megathread_archived_evidence_and_chronology_of/) the purpose of this huge post is to make everything relevant accessible in one single place, instead of flooding the subreddit with (honestly) undesirable posts. We made this so everyone can find stuff more easily, especially newcomers. We will be updating this as things go along. Took a long time to write, upload the evidence and format this post so thanks for the support and positive feedback! If you have any suggestions or additions to this megathread, please comment below! - u/Thomas_Eric 
 
 # Relevant Chronology for Newcomers [[*Official YouTube Playlist*]](https://www.youtube.com/playlist?list=PLHWLdn1VZZ2BO0Bi3VCs0bdOOXXjNtne9)
 
@@ -19,7 +19,11 @@
 * **December 25th, 2023** - [u/Carinail posts his spreadsheet calculating the inflation loss over time. Result: -$118,469.00!](https://www.reddit.com/r/TheCompletionist2/comments/18qf742/the_open_hand_foundation_inflation_calculation/) [[**Google Spreadsheet Link**]](https://docs.google.com/spreadsheets/d/1lJfu6BGYEnL9ITRud134xrFujFbKvFWA1f8ytCYuYdY/edit#gid=0)
 * **January 02nd, 2024** - [The Super Beard Bros announce that they are coming back without Jirard.](https://www.patreon.com/posts/95752144) [[**Archive Mirror**]](https://web.archive.org/web/20240103092053/https://www.patreon.com/posts/95752144) [*[Meanwhile, they lost 162 paid patreons in December 2023, which is 23% of their total patreons]*](https://www.reddit.com/r/TheCompletionist2/comments/18wjz2v/patreon_monthly_update_the_completionist_lost_98/)
 * **January 02nd, 2024** - [Jirard reappears on The Completionist discord saying that he is posting a new video in the weekend.](https://www.reddit.com/r/TheCompletionist2/comments/18xc6e7/jirard_is_apparently_planning_a_video_this_weekend/)
-* **January 05th, 2024** - [Jirard's makes his first stream since the controversy came out, confirms the video is coming out on the weekend](https://www.reddit.com/r/TheCompletionist2/comments/18zr2jj/jirard_streaming_again_on_twitch_live_right_now/)
+* **January 05th, 2024** - [[ARCHIVED VOD] Jirard's makes his first stream since the controversy came out, confirms the video is coming out on the weekend](https://archive.org/details/the-completionist-comes-back/1-5-24.mp4) [*[Discussion Thread]*](https://www.reddit.com/r/TheCompletionist2/comments/18zr2jj/jirard_streaming_again_on_twitch_live_right_now/) [**[Relevant part of the VOD clipped]**](https://www.reddit.com/r/TheCompletionist2/comments/1908kjl/indeed_this_got_clipped_thanks_to_uquantum_hacker/)
+* **January 12th, 2024** - [Greg Wilmot (the person responsable for the initial sucess of The Completionist, left in 2015) suddenly reappears after 8 years, leaving a message to everyone on the Subreddit.](https://www.reddit.com/r/TheCompletionist2/comments/194zm8q/a_message_from_an_old_friendor_foe/)
+* **January 21st, 2024** - [Karl Jobst uploads a video on the lawyer Moony, one of Jirard's defenders. In the video, Karl gives out more info against Jirard.](https://www.youtube.com/watch?v=2p5U4OfJ1NA)
+* **June 11th, 2024** - [Mutahar goes on Kino Casino. Thinks that he and Karl are going to be sued by Jirard.](https://www.reddit.com/r/TheCompletionist2/comments/1dd9uwe/update_mutahar_on_kino_casino_talks_about_the/)
+* **July 23rd, 2024** - [The Indieland YouTube Channel + Jirard's twitter has been has been privated.](https://www.reddit.com/r/TheCompletionist2/comments/1ea0kec/indielands_youtube_channel_is_gone/)
  
 # General FAQ by u/BitchIAmABus and the Moderation Team
 
@@ -83,7 +87,19 @@ MOST Relevant and Important Files ONLY (for ALL uploaded files including less re
 3. [[**Download Link: Archived version of Mutahar's video release of the audio (same as the previous audio)**]](https://archive.org/download/call_muta_jirard_karl/Muta%27s%20recording/The%20Jirard%20Discord%20Call%20Interview.mkv)
 4. [[**Download Link: HTML log file of Karl Jobst's public text channel "General" between 2023-11-09 to 2023-12-18 for preservation (viewable in browser)**]](https://archive.org/download/call_muta_jirard_karl/Discord%20Logs%20-%20Karl%20Jobst%20server/Karl%20Jobst%20-%20Text%20Channels%20-%20general%20%5B517694784199065600%5D%20%28after%202023-11-09%29.html)
 
-## • 4 - Indieland 2023
+## • 4 - [Main Page: The entire Completionist catalouge (2014-2024)](https://archive.org/details/2022-04-30-almost-every-god-of-war-the-completionist) [*[File Browser Link]*](https://archive.org/download/2022-04-30-almost-every-god-of-war-the-completionist/The%20Completionist%20Video%20Backup/)
+
+This is an archive of all Completionist videos done by u/ScottNBNP. Most of them you can watch from your browser by scrolling down! You can also download them from the file browser! 
+
+## • 5 - [Main Page: The Completionist Twitch VOD of 5th of January, 2024 + Super Mario RPG Video](https://archive.org/details/the-completionist-comes-back) [*[File Browser Link]*](https://archive.org/download/the-completionist-comes-back)
+
+MOST Relevant and Important Files ONLY (for ALL uploaded files including less relevant ones, subtitles and video metadata, just go directly to the File Browser):
+
+1. [Twitch VOD of 5th of January, 2024 (where he addresses the controversy again)](https://archive.org/details/the-completionist-comes-back/1-5-24.mp4) [[**Download Link**]](https://archive.org/download/the-completionist-comes-back/1-5-24.mp4)
+2. [Super Mario RPG: 25 Years Later a Nintendo Classic](https://archive.org/details/the-completionist-comes-back/Super+Mario+RPG%EF%BC%9A+25+Years+Later+a+Nintendo+Classic.mkv) [[**Download Link**]](https://archive.org/download/the-completionist-comes-back/Super%20Mario%20RPG%EF%BC%9A%2025%20Years%20Later%20a%20Nintendo%20Classic.mkv)
+
+
+## • 6 - Indieland 2023
 
 1. [Main Page: IndieLand 2023 Opening Kick-Off & Midweek Special](https://archive.org/details/IndieLand-2023-Opening-Kick-Off-Midweek-Special) [[**File Browser Link**]](https://archive.org/download/IndieLand-2023-Opening-Kick-Off-Midweek-Special)
 2. [Main Page: IndieLand 2023 Day One](https://archive.org/details/indieland2023-day1) [[**File Browser Link**]](https://archive.org/download/indieland2023-day1)
@@ -92,8 +108,8 @@ MOST Relevant and Important Files ONLY (for ALL uploaded files including less re
 
 (Not all videos are playable in browser yet, Internet Archive is taking their sweet time processing them!)
 
-## • 5 - Indieland 2022, 2021, 2020... + some segments of 2019 (thanks for u/ClassicCustoms2010 for finding those)
+## • 7 - Indieland 2022, 2021, 2020... + some segments of 2019 (thanks for u/ClassicCustoms2010 for finding those)
 
-Not yet uploaded. Will do so alongside the next week.
+Not yet uploaded. Will do so alongside the next sometime soon.
 
 > Thank you for viewing the megathread! It took a long time to set this all up! - u/Thomas_Eric
