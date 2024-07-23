@@ -1,4 +1,4 @@
-# GITHUB MIRROR: https://github.com/ThomasEricB/The-Completionist-2-MegaThread
+# [The Completionist 2 MegaThread - General FAQ, Chronology of Events and Archived Evidence](https://old.reddit.com/r/TheCompletionist2/comments/18qbnal/megathread_general_faq_chronology_of_events_and/)
 
 > Hello folks, welcome to our megathread (v2)! [**As some of you might remember from the last time,**](https://www.reddit.com/r/TheCompletionist2/comments/18lsitu/megathread_archived_evidence_and_chronology_of/) the purpose of this huge post is to make everything relevant accessible in one single place, instead of flooding the subreddit with (honestly) undesirable posts. We made this so everyone can find stuff more easily, especially newcomers. We will be updating this as things go along. Took a long time to write, upload the evidence and format this post so thanks for the support and positive feedback! If you have any suggestions or additions to this megathread, please comment below! - u/Thomas_Eric 
 
